@@ -1,0 +1,56 @@
+.thumbnail:hover {
+    position: relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+
+}
+img {
+       height: 200px;
+       width: 200px;
+       align: left;
+}
+.header{
+        color : black;
+        text-align: center;
+        background-color: #8D8D8D;
+}
+.firstdiv  {
+           align-content: left;
+}
+.seconddiv {
+  margin: 75px;
+
+}
+.thirddiv {
+             margin : 75px;
+
+}
+.container {
+            padding:10px;
+            margin: 50px;
+}
+.forthdiv {
+
+  padding : 10px;
+}
+
+
+
+
+.tablestyle  {
+           margin : 50px;
+
+
+
+}
+
+
+.tablestyling ,th , td ,tr {
+            border : 1px solid black;
+            border-collapse: collapse;
+            width:600px;
+
+}
